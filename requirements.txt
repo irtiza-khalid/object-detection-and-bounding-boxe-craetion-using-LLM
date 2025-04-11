@@ -13,4 +13,5 @@ langchain_google_genai
 google-genai
 ipython
 pydantic
+torch
 requests
