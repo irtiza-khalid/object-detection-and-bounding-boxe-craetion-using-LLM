@@ -1,9 +1,8 @@
 pydicom
 streamlit
-opencv-python-headless==4.11.0.86
+opencv-python-headless
 pylibjpeg
 pylibjpeg-libjpeg
-libGL.so.1
 gdcm
 pyngrok
 phidata
