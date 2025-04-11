@@ -11,7 +11,6 @@ from phi.model.google import Gemini
 from phi.tools.duckduckgo import DuckDuckGo
 from langchain_google_genai import ChatGoogleGenerativeAI
 import google.generativeai as genai
-from ultralytics import YOLO
 import torch
 # Ensure session state is initialized
 if "responses" not in st.session_state:
