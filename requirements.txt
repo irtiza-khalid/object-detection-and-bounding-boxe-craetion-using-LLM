@@ -3,6 +3,7 @@ streamlit
 opencv-python-headless==4.11.0.86
 pylibjpeg
 pylibjpeg-libjpeg
+libGL.so.1
 gdcm
 pyngrok
 phidata
