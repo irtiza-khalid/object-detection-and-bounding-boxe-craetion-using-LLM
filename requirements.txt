@@ -1,6 +1,8 @@
 pydicom
 streamlit
 opencv-python-headless
+pylibjpeg
+pylibjpeg-libjpeg
 gdcm
 pyngrok
 phidata
