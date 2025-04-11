@@ -1,6 +1,6 @@
 pydicom
 streamlit
-opencv-python-headless
+opencv-python-headless==4.11.0.86
 pylibjpeg
 pylibjpeg-libjpeg
 gdcm
@@ -10,7 +10,6 @@ Pillow
 duckduckgo-search
 google-generativeai
 langchain_google_genai
-ultralytics
 google
 ipython
 pydantic
